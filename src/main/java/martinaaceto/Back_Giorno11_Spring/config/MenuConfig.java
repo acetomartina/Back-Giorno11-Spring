@@ -1,9 +1,9 @@
-package config;
+package martinaaceto.Back_Giorno11_Spring.config;
 
-import model.Drink;
-import model.Menu;
-import model.Pizza;
-import model.Topping;
+import martinaaceto.Back_Giorno11_Spring.model.Drink;
+import martinaaceto.Back_Giorno11_Spring.model.Menu;
+import martinaaceto.Back_Giorno11_Spring.model.Pizza;
+import martinaaceto.Back_Giorno11_Spring.model.Topping;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
